@@ -2,7 +2,6 @@
 B.Tech student building Flutter apps.
 
 ## Projects
-(To be updated with project: To-Do App with BLoC and API integration)
-
+- [Test Repo](https://github.com/Vaibhav23rd/test-repo): Practice repo with a test file.
 ## Contact
 - Email: khati23vab@gmail.com
