@@ -9,17 +9,14 @@ I'm a passionate **Flutter Developer** pursuing a B.Tech in Computer Science (20
 - Focus on clean code, error handling, and performance optimization.
 
 ## 🚀 Featured Projects
-- **[Weather App Auto](https://github.com/Vaibhav23rd/weather-app-auto)**  
+- **[Weather App](https://github.com/Vaibhav23rd/api_weather_app)**  
   A Flutter app that auto-fetches real-time weather data using geolocation and OpenWeatherMap API, with Lottie animations and a gradient UI.  
   *Tech*: Flutter, Dart, Geolocator, Lottie, HTTP
 
-- **[To-Do App (BLoC)](https://github.com/Vaibhav23rd/todo-app-bloc)**  
+- **[To-Do App](https://github.com/Vaibhav23rd/bloc_todo_app)**  
   A minimal To-Do app with BLoC architecture and task persistence using shared_preferences.  
   *Tech*: Flutter, Dart, flutter_bloc, shared_preferences
 
-- **[Weather App (Manual)](https://github.com/Vaibhav23rd/weather-app-manual)**  
-  A simple Flutter app for manual weather queries with a clean, white-themed UI.  
-  *Tech*: Flutter, Dart, HTTP
 
 ## 🛠️ Skills
 - **Languages**: Dart, Python
@@ -28,7 +25,6 @@ I'm a passionate **Flutter Developer** pursuing a B.Tech in Computer Science (20
 - **Databases**: Firebase, MongoDB, MySQL
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/vaibhavkhati)
 - [Email](mailto:khati23vab@gmail.com)
 - [Portfolio](#) (Coming soon!)
 
