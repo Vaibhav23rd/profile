@@ -41,11 +41,12 @@ I'm a passionate **Flutter Developer** pursuing a B.Tech in Computer Science (20
   An offline app to help users track daily habits and routines using a local database.  
   *Tech*: Flutter, Dart, Hive local storage
 
-## 🛠️ Skills
-- **Languages**: Dart, Python
-- **Frameworks**: Flutter, Firebase, React Native
-- **Tools**: Git, Docker, Jenkins, REST APIs
-- **Databases**: Firebase, MongoDB, MySQL
+## 🛠️ Technical Skills
+- **Languages**: Dart, C++, JavaScript, Python
+- **Frameworks & Tools**: Flutter, BLoC, Provider, Firebase, Git, Docker, Jenkins
+- **APIs & Integrations**: REST APIs, Gemini Flash API, YouTube API
+- **Databases**: Firebase, MySQL, Hive, Shared Preferences (offline storage)
+- **Other**: Responsive UI/UX Design, Unit Testing, Cross-Platform Development, Open-Source Contribution
 
 ## 📫 Connect with Me
 - [Email](mailto:khati23vab@gmail.com)
