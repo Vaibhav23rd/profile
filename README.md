@@ -52,6 +52,6 @@ I'm a passionate **Flutter Developer** pursuing a B.Tech in Computer Science (20
 - [Portfolio](https://vaibhav23rd.github.io/)
 
 ## 🌱 What's Next?
-I'm actively contributing to open-source Flutter projects and learning advanced state management (Riverpod) and CI/CD pipelines. Open to international Flutter developer opportunities!
+I'm actively contributing to open-source Flutter projects and learning advanced state management (Riverpod) and CI/CD pipelines.
 
 *Thanks for visiting my profile! Check out my repositories and feel free to reach out.*
